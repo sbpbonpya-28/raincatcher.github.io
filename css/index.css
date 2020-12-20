@@ -3136,7 +3136,7 @@ blockquote footer cite:before {
 }
 #page-header #site-title {
   margin: 0;
-  color: var(--blue);
+  color: var(--black);
   font-size: 1.85em;
 }
 @media screen and (min-width: 768px) {
@@ -3145,7 +3145,7 @@ blockquote footer cite:before {
   }
 }
 #page-header #site-subtitle {
-  color: var(--blue);
+  color: var(--black);
   font-size: 1.15em;
 }
 @media screen and (min-width: 768px) {
