@@ -79,7 +79,7 @@
 
 #waifu-tool {
 	color: #aaa;
-	opacity: 0.5; // 默认0；
+	opacity: 0; // 默认0；
 	position: absolute;
 	left: 0px; // 这里默认是 right: -10px;
 	top: 70px;
