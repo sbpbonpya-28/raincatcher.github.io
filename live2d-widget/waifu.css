@@ -47,7 +47,7 @@
 	line-height: 24px;
 	margin: -30px 20px;
 	min-height: 70px;
-	opacity: 0.5; // 默认0
+	opacity: 0.5; // 默认0；
 	overflow: hidden;
 	padding: 5px 10px;
 	position: absolute;
@@ -58,7 +58,7 @@
 }
 
 #waifu-tips.waifu-tips-active {
-	opacity: 0.5; // 默认1
+	opacity: 0.5; // 默认1；
 	transition: opacity .2s;
 }
 
@@ -79,7 +79,7 @@
 
 #waifu-tool {
 	color: #aaa;
-	opacity: 0.5; // 默认0
+	opacity: 0.5; // 默认0；
 	position: absolute;
 	left: 0px; // 这里默认是 right: -10px;
 	top: 70px;
@@ -87,7 +87,7 @@
 }
 
 #waifu:hover #waifu-tool {
-	opacity: 0.5; // 默认1
+	opacity: 0.5; // 默认1；
 }
 
 #waifu-tool span {
