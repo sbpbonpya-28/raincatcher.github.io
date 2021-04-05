@@ -81,13 +81,13 @@ A-->B2[哈希]</pre>
 <h4 id="Collision-resistance-Hiding-underrightarrow-text-implementation-Digital-commitment-or-equivalent-of-a-sealed-evelope"><a href="#Collision-resistance-Hiding-underrightarrow-text-implementation-Digital-commitment-or-equivalent-of-a-sealed-evelope" class="headerlink" title="Collision resistance + Hiding $\underrightarrow{\text{implementation}}$ Digital commitment (or equivalent of a sealed evelope)"></a>Collision resistance + Hiding $\underrightarrow{\text{implementation}}$ Digital commitment (or equivalent of a sealed evelope)</h4><ul>
 <li><p>What is a sealed evelope?</p>
 <ul>
-<li>A man say that he can predict the stock’s stop, so that he need a way to convince them of his ability. There are generally three ways: </li>
+<li>A man say that he can predict the stock’s stop, so that he need a way to convince them of his ability. There are generally three ways and we will talk that which one is feasible: </li>
 </ul>
 <pre class="mermaid">  graph LR
 
-A[Ways]--> B1[Tell everybody on the day before the stock close that the stock will stop.]
-A[Ways]--> B2[Tell everybody on the day after the stock close that the stock will stop.]
-A[Ways]--> B3[Put the predicting result in a sealed evelope and submit it to a trusted institution.<br/>The institution will open the evelope after the stock closes and check if the predicting is right.]</pre>
+A[Ways]--1---> B1[He tells everybody on the day before the stock close that the stock will stop.]
+A[Ways]--2---> B2[He tells everybody on the day after the stock close that the stock will stop.]
+A[Ways]--3---> B3[He puts the predicting result in a sealed evelope and submit it to a trusted institution.<br/>The institution will open the evelope after the stock closes and check if the predicting is right.]</pre>
 
 <ul>
 <li>Obviously the third way is the only way that he can convince others of his predicting ability. May the first way seem to be realistic, but the information about the stocks itself will influence the behavior of the shareholders, so that the predicting will be unreliable.</li>
@@ -100,6 +100,31 @@ A[Ways]--> B3[Put the predicting result in a sealed evelope and submit it to a t
       </categories>
       <tags>
         <tag>区块链</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>只要活着就好</title>
+    <url>/2020/12/07/%E5%8F%AA%E8%A6%81%E6%B4%BB%E7%9D%80%E5%B0%B1%E5%A5%BD/</url>
+    <content><![CDATA[<p>软软的柿子橙红，很好吃。熟透的香蕉放进微波炉加热，甜蜜蜜。喝满满一大口橙子果汁，咽下。白天打开窗帘，让阳光照在身上。傍晚听雨。夜里躺下，痴痴望着月亮。梦境是《少年焦的奇幻漂流》。</p>
+<p>就算一无所有，我还可以望星辰，并思考它。我只要还活着，就有机会吃到软软的柿子，感受生活的美与美的梦境。</p>
+]]></content>
+      <categories>
+        <category>思绪切切如私语</category>
+      </categories>
+      <tags>
+        <tag>活着</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>夏天</title>
+    <url>/2020/12/21/%E5%A4%8F%E5%A4%A9/</url>
+    <content><![CDATA[<p>漆黑夜色中暗火游移<br>脑海宁静却有人呢喃不停<br>大街燥热 心情潮湿<br>皮肤黏上衣衫 步伐紧随心跳鼓点<br>温柔的晚风里汗毛竖立<br>空气散发出银白色气味 那让我想到某个古老的夏日<br>雨夜蛙声渐稀 却难入眠</p>
+]]></content>
+      <categories>
+        <category>思绪切切如私语</category>
+      </categories>
+      <tags>
+        <tag>夏天</tag>
       </tags>
   </entry>
   <entry>
@@ -127,31 +152,6 @@ A[Ways]--> B3[Put the predicting result in a sealed evelope and submit it to a t
       </categories>
       <tags>
         <tag>崩溃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>只要活着就好</title>
-    <url>/2020/12/07/%E5%8F%AA%E8%A6%81%E6%B4%BB%E7%9D%80%E5%B0%B1%E5%A5%BD/</url>
-    <content><![CDATA[<p>软软的柿子橙红，很好吃。熟透的香蕉放进微波炉加热，甜蜜蜜。喝满满一大口橙子果汁，咽下。白天打开窗帘，让阳光照在身上。傍晚听雨。夜里躺下，痴痴望着月亮。梦境是《少年焦的奇幻漂流》。</p>
-<p>就算一无所有，我还可以望星辰，并思考它。我只要还活着，就有机会吃到软软的柿子，感受生活的美与美的梦境。</p>
-]]></content>
-      <categories>
-        <category>思绪切切如私语</category>
-      </categories>
-      <tags>
-        <tag>活着</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>夏天</title>
-    <url>/2020/12/21/%E5%A4%8F%E5%A4%A9/</url>
-    <content><![CDATA[<p>漆黑夜色中暗火游移<br>脑海宁静却有人呢喃不停<br>大街燥热 心情潮湿<br>皮肤黏上衣衫 步伐紧随心跳鼓点<br>温柔的晚风里汗毛竖立<br>空气散发出银白色气味 那让我想到某个古老的夏日<br>雨夜蛙声渐稀 却难入眠</p>
-]]></content>
-      <categories>
-        <category>思绪切切如私语</category>
-      </categories>
-      <tags>
-        <tag>夏天</tag>
       </tags>
   </entry>
   <entry>
@@ -331,6 +331,18 @@ A[Ways]--> B3[Put the predicting result in a sealed evelope and submit it to a t
       </tags>
   </entry>
   <entry>
+    <title>梦（二）</title>
+    <url>/2020/12/06/%E6%A2%A6%EF%BC%88%E4%BA%8C%EF%BC%89/</url>
+    <content><![CDATA[<p>梦里渴望的事被一件件毫无意义又非做不可的小事牵绊，真想掠过繁琐的细节，把梦做得香喷喷的冒着热气。</p>
+]]></content>
+      <categories>
+        <category>梦里落花未可知</category>
+      </categories>
+      <tags>
+        <tag>梦</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>梦（三）</title>
     <url>/2021/01/16/%E6%A2%A6%EF%BC%88%E4%B8%89%EF%BC%89/</url>
     <content><![CDATA[<p>水泥地板游移着一个红点，这个红点让我想起了一只喜欢追逐着红点的猫。我全身无力，头重脚轻，勉勉强强睁开眼睛看着朦朦胧胧的地面。耳中响起蜂鸣声，我明白我对我的处境一无所知。……几秒钟之后我艰难地抬起头，顺着红点的源头恍惚望去，摇晃不止的画面中立着一个五十岁上下的眼镜女人。这……这是……高中老师！我的高中化学老师！我惊讶的几乎要呆在这里。她正在和另外一个老师交谈，边把手中的激光笔随意按来按去，摇来摇去。惊讶片刻我迅速地冷静下来，等等，这是我高二的化学老师，我暗自对自己说。高二，我思考着这个时间，大脑飞速地运转，想要尽快确定我所在的处境。高二，我在三楼。那……我的脑中闪过一个大得出奇、重的出奇地也是唯一的念头——他们还在吗？！</p>
@@ -341,18 +353,6 @@ A[Ways]--> B3[Put the predicting result in a sealed evelope and submit it to a t
 ]]></content>
       <tags>
         <tag>梦里落花未可知</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>梦（二）</title>
-    <url>/2020/12/06/%E6%A2%A6%EF%BC%88%E4%BA%8C%EF%BC%89/</url>
-    <content><![CDATA[<p>梦里渴望的事被一件件毫无意义又非做不可的小事牵绊，真想掠过繁琐的细节，把梦做得香喷喷的冒着热气。</p>
-]]></content>
-      <categories>
-        <category>梦里落花未可知</category>
-      </categories>
-      <tags>
-        <tag>梦</tag>
       </tags>
   </entry>
   <entry>
