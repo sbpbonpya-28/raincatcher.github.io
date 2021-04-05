@@ -231,6 +231,17 @@ A-->B2[哈希]</pre>
   MathJax.startup.document.state(0)
   MathJax.texReset()
   MathJax.typeset()
+}</script><script>if (document.getElementsByClassName('mermaid').length) {
+  if (window.mermaidJsLoad) mermaid.init()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js').then(() => {
+      window.mermaidJsLoad = true
+      mermaid.initialize({
+        theme: 'default',
+      })
+      ture && mermaid.init()
+    })
+  }
 }</script><script>function loadLivere () {
   if (typeof LivereTower === 'object') {
     window.LivereTower.init()
