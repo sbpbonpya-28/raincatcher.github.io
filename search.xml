@@ -54,7 +54,7 @@
       </tags>
   </entry>
   <entry>
-    <title>区块链技术笔记</title>
+    <title>区块链技术与应用笔记</title>
     <url>/2021/04/05/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h1 id="区块链技术与应用"><a href="#区块链技术与应用" class="headerlink" title="区块链技术与应用"></a>区块链技术与应用</h1><h2 id="比特币原理"><a href="#比特币原理" class="headerlink" title="比特币原理"></a>比特币原理</h2><pre class="mermaid">graph TD
 A[比特币用到的密码学内容]-->B1[哈希]
@@ -130,6 +130,18 @@ A[Ways]--3---> B3[He puts the predicting result in a sealed<br/>evelope and subm
       </tags>
   </entry>
   <entry>
+    <title>夏天</title>
+    <url>/2020/12/21/%E5%A4%8F%E5%A4%A9/</url>
+    <content><![CDATA[<p>漆黑夜色中暗火游移<br>脑海宁静却有人呢喃不停<br>大街燥热 心情潮湿<br>皮肤黏上衣衫 步伐紧随心跳鼓点<br>温柔的晚风里汗毛竖立<br>空气散发出银白色气味 那让我想到某个古老的夏日<br>雨夜蛙声渐稀 却难入眠</p>
+]]></content>
+      <categories>
+        <category>思绪切切如私语</category>
+      </categories>
+      <tags>
+        <tag>夏天</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>只要活着就好</title>
     <url>/2020/12/07/%E5%8F%AA%E8%A6%81%E6%B4%BB%E7%9D%80%E5%B0%B1%E5%A5%BD/</url>
     <content><![CDATA[<p>软软的柿子橙红，很好吃。熟透的香蕉放进微波炉加热，甜蜜蜜。喝满满一大口橙子果汁，咽下。白天打开窗帘，让阳光照在身上。傍晚听雨。夜里躺下，痴痴望着月亮。梦境是《少年焦的奇幻漂流》。</p>
@@ -140,18 +152,6 @@ A[Ways]--3---> B3[He puts the predicting result in a sealed<br/>evelope and subm
       </categories>
       <tags>
         <tag>活着</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>夏天</title>
-    <url>/2020/12/21/%E5%A4%8F%E5%A4%A9/</url>
-    <content><![CDATA[<p>漆黑夜色中暗火游移<br>脑海宁静却有人呢喃不停<br>大街燥热 心情潮湿<br>皮肤黏上衣衫 步伐紧随心跳鼓点<br>温柔的晚风里汗毛竖立<br>空气散发出银白色气味 那让我想到某个古老的夏日<br>雨夜蛙声渐稀 却难入眠</p>
-]]></content>
-      <categories>
-        <category>思绪切切如私语</category>
-      </categories>
-      <tags>
-        <tag>夏天</tag>
       </tags>
   </entry>
   <entry>
@@ -241,31 +241,6 @@ A[Ways]--3---> B3[He puts the predicting result in a sealed<br/>evelope and subm
       </tags>
   </entry>
   <entry>
-    <title>我来告诉你，这世界应该怎样</title>
-    <url>/2021/03/19/%E6%88%91%E6%9D%A5%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E8%BF%99%E4%B8%96%E7%95%8C%E5%BA%94%E8%AF%A5%E6%80%8E%E6%A0%B7/</url>
-    <content><![CDATA[<p>生长，就应该把死亡踩在地上</p>
-<p>爱，应该把长矛一千次刺进仇恨的心脏</p>
-<p>幸福，应该敲碎全世界所有钟表</p>
-<p>誓言，应该寄予黑洞随宇宙一起灭亡</p>
-<p>远行，就应该让帆船漂流在银河上</p>
-<p>和平，应该向着战火开炮</p>
-<p>黎明应该孕育在一颗入土的豌豆中</p>
-<p>阳光和暴雨应该同时淋在我身上</p>
-<p>两个人应该挤同一把雨伞</p>
-<p>青草应该在我心中发芽</p>
-<p>成熟的果实应该掉落在我丰满的梦中</p>
-<p>噩梦留给死魂灵，活着的人应该做轰轰烈烈的白日梦</p>
-<p>本来美好的应该更加美好</p>
-<p>本应热烈的都应该更加热烈</p>
-]]></content>
-      <categories>
-        <category>思绪切切如私语</category>
-      </categories>
-      <tags>
-        <tag>豌豆</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我的童年</title>
     <url>/2020/12/19/%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4/</url>
     <content><![CDATA[<p>​    嘀嗒，嘀嗒，表针擦出时间的声音。深夜里的我卧坐在床上听着窗外的声响。德累斯顿凌晨的街道上依然有火车通行，伴随着男人与女人的叫喊声隆隆驶过。阴沉的雨天里逐渐嗅到秋天的味道，天气变凉，便是坐在椅子上也要裹起被子。</p>
@@ -291,6 +266,31 @@ A[Ways]--3---> B3[He puts the predicting result in a sealed<br/>evelope and subm
       </tags>
   </entry>
   <entry>
+    <title>我来告诉你，这世界应该怎样</title>
+    <url>/2021/03/19/%E6%88%91%E6%9D%A5%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E8%BF%99%E4%B8%96%E7%95%8C%E5%BA%94%E8%AF%A5%E6%80%8E%E6%A0%B7/</url>
+    <content><![CDATA[<p>生长，就应该把死亡踩在地上</p>
+<p>爱，应该把长矛一千次刺进仇恨的心脏</p>
+<p>幸福，应该敲碎全世界所有钟表</p>
+<p>誓言，应该寄予黑洞随宇宙一起灭亡</p>
+<p>远行，就应该让帆船漂流在银河上</p>
+<p>和平，应该向着战火开炮</p>
+<p>黎明应该孕育在一颗入土的豌豆中</p>
+<p>阳光和暴雨应该同时淋在我身上</p>
+<p>两个人应该挤同一把雨伞</p>
+<p>青草应该在我心中发芽</p>
+<p>成熟的果实应该掉落在我丰满的梦中</p>
+<p>噩梦留给死魂灵，活着的人应该做轰轰烈烈的白日梦</p>
+<p>本来美好的应该更加美好</p>
+<p>本应热烈的都应该更加热烈</p>
+]]></content>
+      <categories>
+        <category>思绪切切如私语</category>
+      </categories>
+      <tags>
+        <tag>豌豆</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>我的至高想法</title>
     <url>/2021/03/22/%E6%88%91%E7%9A%84%E8%87%B3%E9%AB%98%E6%83%B3%E6%B3%95/</url>
     <content><![CDATA[<p>坦白来说，我不是一个很现实的人，或者说我是一个很不现实的人。我想要生命里光，有闪闪发光的地方，或者说生活里也一样。我不想让世俗之人告诉我，这世界应该是什么样子的，因为我知道这世界应该是什么样子的。或者说，我有想法，这世界应该是什么样子的。我还有可能性，我还没有被淹没，我可以大口大口地站在阳光下喘粗气，我会觉得活下去蛮有希望，生活值得被热爱。平平凡凡的生活里，总有一些事情在闪闪发光，把它们放大，像饕餮一样贪婪地吞下它们。我要有我自己的精神家园，我不愿意也不能够失去灵魂，失去灵魂的我会立马死去。生活应该有诗，应该做想做但不敢做的事。我不知道我会不会最终被现实吞没，但知道那一天到来之前，我都会用尽全力抗争。对于生活，我有我自己的浪漫，我要，而且会，也正在一步一步更加，至死浪漫。</p>
@@ -301,18 +301,6 @@ A[Ways]--3---> B3[He puts the predicting result in a sealed<br/>evelope and subm
       </categories>
       <tags>
         <tag>至死浪漫</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>梦（一）</title>
-    <url>/2020/12/03/%E6%A2%A6%EF%BC%88%E4%B8%80%EF%BC%89/</url>
-    <content><![CDATA[<p>我昨夜的梦中有金色的阳光和深秋的落叶，我们互相看着对方，谁都没有说话。</p>
-]]></content>
-      <categories>
-        <category>梦里落花未可知</category>
-      </categories>
-      <tags>
-        <tag>梦</tag>
       </tags>
   </entry>
   <entry>
@@ -355,6 +343,18 @@ A[Ways]--3---> B3[He puts the predicting result in a sealed<br/>evelope and subm
       </categories>
       <tags>
         <tag>新年</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>梦（一）</title>
+    <url>/2020/12/03/%E6%A2%A6%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+    <content><![CDATA[<p>我昨夜的梦中有金色的阳光和深秋的落叶，我们互相看着对方，谁都没有说话。</p>
+]]></content>
+      <categories>
+        <category>梦里落花未可知</category>
+      </categories>
+      <tags>
+        <tag>梦</tag>
       </tags>
   </entry>
   <entry>
