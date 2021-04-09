@@ -13,6 +13,19 @@
       </tags>
   </entry>
   <entry>
+    <title>临走之时</title>
+    <url>/2020/12/13/%E4%B8%B4%E8%B5%B0%E4%B9%8B%E6%97%B6/</url>
+    <content><![CDATA[<p>临走之时家乡果然又下起了雨，唯一让我感到落魄的，是我们再也回不到那个天真烂漫的时代，那个我们幼稚张扬不顾一切，空虚却荷尔蒙泛滥的时代，那个越知道错，就越去追求的时代。我们是一群奇奇怪怪的亲人，为了对方而变得更好。曾怀着一个作家的梦，而我永远也写不出关于我们的故事，它们都以最美好的方式存留在我们每个人心中。失去，保留，一切都已按照常理进行，或许以我们不希望的方式。</p>
+<p>2017年1月25日</p>
+]]></content>
+      <categories>
+        <category>思绪切切如私语</category>
+      </categories>
+      <tags>
+        <tag>雨</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>今夜无月</title>
     <url>/2020/12/19/%E4%BB%8A%E5%A4%9C%E6%97%A0%E6%9C%88/</url>
     <content><![CDATA[<p>楼上钟明如天上月</p>
@@ -26,31 +39,6 @@
       </categories>
       <tags>
         <tag>月</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>假雨</title>
-    <url>/2020/12/04/%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%9C%A8%E4%B8%8B%E9%9B%A8/</url>
-    <content><![CDATA[<p>夜晚，窗外窸窸窣窣。我以为是在下雨，打开窗子将手臂伸出——没有雨。向外扶着眼镜探头看，共享电动车倒在地上连成一排，是风把落叶吹在马路上，卷来卷去的声音。风卷起落叶，如雨落大街。</p>
-]]></content>
-      <categories>
-        <category>思绪切切如私语</category>
-      </categories>
-      <tags>
-        <tag>雨</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>临走之时</title>
-    <url>/2020/12/13/%E4%B8%B4%E8%B5%B0%E4%B9%8B%E6%97%B6/</url>
-    <content><![CDATA[<p>临走之时家乡果然又下起了雨，唯一让我感到落魄的，是我们再也回不到那个天真烂漫的时代，那个我们幼稚张扬不顾一切，空虚却荷尔蒙泛滥的时代，那个越知道错，就越去追求的时代。我们是一群奇奇怪怪的亲人，为了对方而变得更好。曾怀着一个作家的梦，而我永远也写不出关于我们的故事，它们都以最美好的方式存留在我们每个人心中。失去，保留，一切都已按照常理进行，或许以我们不希望的方式。</p>
-<p>2017年1月25日</p>
-]]></content>
-      <categories>
-        <category>思绪切切如私语</category>
-      </categories>
-      <tags>
-        <tag>雨</tag>
       </tags>
   </entry>
   <entry>
@@ -68,7 +56,7 @@ A-->B2[签名]</pre>
 <li>The first important feature of hash function: Collision resistance</li>
 <li>Collision resistance means: 对于任意一个$x$， 都一个对应的哈希函数值$H(x)$，而除了运用暴力求解，就没有别的办法能够找到一个$y$，使得$H(x)=H(y)$。</li>
 <li>应用例子：对与一个$Message\ m$，它的哈希值为 $H(m)$。其中，$H(m)$可以认为是$m$的$Digest$。哈希值在这里可以用来检测人是否对$Messsage \  m$进行了篡改。虽然$H(x)=H(y)$的情况存在，由于根据$x$求取$y$的方式太复杂，以至于只能用暴力求解的办法来找$y$。运算量随输入空间指数增长，在输入空间足够大时，暴力求解也不可取。因此对于网盘来说，只需对比本地文件的哈希值和网上文件的哈希值，即可知道上传的文件有没有被篡改，由此保证了安全性。</li>
-<li>所有的哈希函数的Collision resistance性质都没有在数学上被严格证明，一切都是来自于经验。有些哈希函数经过许多高端密码学家检验，是Collision resistance的，也就是说找不到$H(x)=H(y)$的情况，这样的哈希函数就可以实际应用。也有一些哈希函数，原本被以为是Collision resistance的，可后来被找到了认为制造Collision resistance的方法，所以现在已经不安全了，例如著名的MD5。</li>
+<li>所有的哈希函数的Collision resistance性质都没有在数学上被严格证明，一切都是来自于经验。有些哈希函数经过许多高端密码学家检验，是Collision resistance的，也就是说找不到$H(x)=H(y)$的情况，这样的哈希函数就可以实际应用。也有一些哈希函数，原本被以为是Collision resistance的，可后来被找到了认为制造Collision的方法，所以现在已经不安全了，例如著名的MD5。</li>
 <li>Bitcoin uses SHA-256 hash function. SHA means Secure Hash Algorithm.</li>
 </ul>
 <h4 id="Character-2-Hiding"><a href="#Character-2-Hiding" class="headerlink" title="Character 2 Hiding"></a>Character 2 Hiding</h4><ul>
@@ -130,6 +118,18 @@ A[Ways]--3---> B3[He puts the predicting result in a sealed<br/>evelope and subm
       </tags>
   </entry>
   <entry>
+    <title>假雨</title>
+    <url>/2020/12/04/%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%9C%A8%E4%B8%8B%E9%9B%A8/</url>
+    <content><![CDATA[<p>夜晚，窗外窸窸窣窣。我以为是在下雨，打开窗子将手臂伸出——没有雨。向外扶着眼镜探头看，共享电动车倒在地上连成一排，是风把落叶吹在马路上，卷来卷去的声音。风卷起落叶，如雨落大街。</p>
+]]></content>
+      <categories>
+        <category>思绪切切如私语</category>
+      </categories>
+      <tags>
+        <tag>雨</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>只要活着就好</title>
     <url>/2020/12/07/%E5%8F%AA%E8%A6%81%E6%B4%BB%E7%9D%80%E5%B0%B1%E5%A5%BD/</url>
     <content><![CDATA[<p>软软的柿子橙红，很好吃。熟透的香蕉放进微波炉加热，甜蜜蜜。喝满满一大口橙子果汁，咽下。白天打开窗帘，让阳光照在身上。傍晚听雨。夜里躺下，痴痴望着月亮。梦境是《少年焦的奇幻漂流》。</p>
@@ -182,19 +182,6 @@ A[Ways]--3---> B3[He puts the predicting result in a sealed<br/>evelope and subm
       </tags>
   </entry>
   <entry>
-    <title>想祝福你</title>
-    <url>/2020/12/11/%E6%83%B3%E7%A5%9D%E7%A6%8F%E4%BD%A0/</url>
-    <content><![CDATA[<p>我想让你的心里充满阳光与花的香味。</p>
-<p>我想听你亲口对我说：“我不能再多爱这个世界哪怕一点。”</p>
-]]></content>
-      <categories>
-        <category>思绪切切如私语</category>
-      </categories>
-      <tags>
-        <tag>阳光</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>异世界雨水收集者</title>
     <url>/2020/11/24/%E5%BC%82%E4%B8%96%E7%95%8C%E9%9B%A8%E6%B0%B4%E6%94%B6%E9%9B%86%E8%80%85/</url>
     <content><![CDATA[<p>有一天我突然想当一个异世界雨水收集者。</p>
@@ -212,6 +199,31 @@ A[Ways]--3---> B3[He puts the predicting result in a sealed<br/>evelope and subm
       </categories>
       <tags>
         <tag>异世界</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我来告诉你，这世界应该怎样</title>
+    <url>/2021/03/19/%E6%88%91%E6%9D%A5%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E8%BF%99%E4%B8%96%E7%95%8C%E5%BA%94%E8%AF%A5%E6%80%8E%E6%A0%B7/</url>
+    <content><![CDATA[<p>生长，就应该把死亡踩在地上</p>
+<p>爱，应该把长矛一千次刺进仇恨的心脏</p>
+<p>幸福，应该敲碎全世界所有钟表</p>
+<p>誓言，应该寄予黑洞随宇宙一起灭亡</p>
+<p>远行，就应该让帆船漂流在银河上</p>
+<p>和平，应该向着战火开炮</p>
+<p>黎明应该孕育在一颗入土的豌豆中</p>
+<p>阳光和暴雨应该同时淋在我身上</p>
+<p>两个人应该挤同一把雨伞</p>
+<p>青草应该在我心中发芽</p>
+<p>成熟的果实应该掉落在我丰满的梦中</p>
+<p>噩梦留给死魂灵，活着的人应该做轰轰烈烈的白日梦</p>
+<p>本来美好的应该更加美好</p>
+<p>本应热烈的都应该更加热烈</p>
+]]></content>
+      <categories>
+        <category>思绪切切如私语</category>
+      </categories>
+      <tags>
+        <tag>豌豆</tag>
       </tags>
   </entry>
   <entry>
@@ -241,28 +253,16 @@ A[Ways]--3---> B3[He puts the predicting result in a sealed<br/>evelope and subm
       </tags>
   </entry>
   <entry>
-    <title>我来告诉你，这世界应该怎样</title>
-    <url>/2021/03/19/%E6%88%91%E6%9D%A5%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E8%BF%99%E4%B8%96%E7%95%8C%E5%BA%94%E8%AF%A5%E6%80%8E%E6%A0%B7/</url>
-    <content><![CDATA[<p>生长，就应该把死亡踩在地上</p>
-<p>爱，应该把长矛一千次刺进仇恨的心脏</p>
-<p>幸福，应该敲碎全世界所有钟表</p>
-<p>誓言，应该寄予黑洞随宇宙一起灭亡</p>
-<p>远行，就应该让帆船漂流在银河上</p>
-<p>和平，应该向着战火开炮</p>
-<p>黎明应该孕育在一颗入土的豌豆中</p>
-<p>阳光和暴雨应该同时淋在我身上</p>
-<p>两个人应该挤同一把雨伞</p>
-<p>青草应该在我心中发芽</p>
-<p>成熟的果实应该掉落在我丰满的梦中</p>
-<p>噩梦留给死魂灵，活着的人应该做轰轰烈烈的白日梦</p>
-<p>本来美好的应该更加美好</p>
-<p>本应热烈的都应该更加热烈</p>
+    <title>想祝福你</title>
+    <url>/2020/12/11/%E6%83%B3%E7%A5%9D%E7%A6%8F%E4%BD%A0/</url>
+    <content><![CDATA[<p>我想让你的心里充满阳光与花的香味。</p>
+<p>我想听你亲口对我说：“我不能再多爱这个世界哪怕一点。”</p>
 ]]></content>
       <categories>
         <category>思绪切切如私语</category>
       </categories>
       <tags>
-        <tag>豌豆</tag>
+        <tag>阳光</tag>
       </tags>
   </entry>
   <entry>
